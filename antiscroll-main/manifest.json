@@ -1,0 +1,27 @@
+{
+    "name": "AntiScroll",
+
+    "description": "stop doomscrolling, block sad news",
+    
+    "manifest_version": 2,
+
+    "version": "1.0",
+
+    "content_scripts": [
+        {
+          "matches": [
+            "https://news.google.com/*",
+            "http://news.google.com/*"
+          ],
+
+          "js": ["content.js", "jquery.js"]
+        }
+      ],
+      "browser_action": {
+        "default_title": "antiscroll",
+        "default_popup": "popup.html"
+      },
+      "permissions": [
+        "storage"
+      ]
+}
