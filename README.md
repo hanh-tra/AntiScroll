@@ -1,3 +1,5 @@
+##AntiScroll
+
 ## Inspiration
 Ever since the pandemic, my dad has gotten more and more depressed. Why? Because he's constantly scrolling through negative news and sad articles about the state of the world. Yes, it's important to stay informed, but there comes a point where doomscrolling is just harmful. 
 
@@ -17,3 +19,7 @@ I'm proud that I was able to put together a functional app in less than two days
 
 ## What's next for Happy News!
 I would like to possibly incorporate machine learning to tailor news blocking to specific user's needs. Also, I might try to make this work on Twitter, because my dad gets a lot of news from there. 
+
+## Try it
+go to chrome extensions, click "load unpacked" and pick the antiscroll-main folder
+
