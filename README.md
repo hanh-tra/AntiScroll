@@ -1,4 +1,4 @@
-##AntiScroll
+## AntiScroll
 
 ## Inspiration
 Ever since the pandemic, my dad has gotten more and more depressed. Why? Because he's constantly scrolling through negative news and sad articles about the state of the world. Yes, it's important to stay informed, but there comes a point where doomscrolling is just harmful. 
